@@ -36,7 +36,7 @@ include 'vendor/autoload.php';
 var myVar;
 
 function refLoad() {
-    myVar = setTimeout(showPage, 1);
+    myVar = setTimeout(showPage, 100);
 }
 
 function showPage() {
@@ -125,7 +125,7 @@ var i;
  <div id="loader">  
  <div id="alert" style="z-index: 100; position: fixed; top: 0; margin-top: -100px;  width: 100%; left: 0; right:0;" class="alert info">
   <span class="closebtn">&times;</span>  
-  <strong>Info!</strong> <span> This page will load for 10secs before it displays my Resume. So enjoy the View </span>
+  <strong>Info!</strong> <span> This page will load for few secs. So enjoy the View </span>
 </div>
 <div style="z-index: 20; Position: absolute; font-weight: 300; color: #fff; font-size: 18px; bottom: 0; left: 0; right: 0; text-align: center;"><p>Credit: Loader [icon-only] by @j on <a style="text-decoration: none; cursor: pointer;" href="https://www.twitter.com/"><b style="color: #00acee;">Twitter</b></a></p></div>    
 
@@ -212,7 +212,7 @@ var i;
 
 </div>
 <div id="swiftNew">
-    <p style="text-align: center; color: #fff; font-size: 24px; margin-top: 150px;" id="swiftDemo"></p>
+    <p style="text-align: center; color: #fff; font-size: 24px; margin-top: 80px;" id="swiftDemo"></p>
     </div> 
     </div>
 </div>
@@ -727,7 +727,7 @@ data-word='[" Software Developer!", " UI/UX Designer(Digital Artist)!", " Photog
   </section>
 <section style="padding: 0 3em; margin-top: 45%;">
   <h2 style="font-size: 3em;" id="section3" style> About Me! </h2>
-<p> Progress bar is  <span style="color: red;" id="roll"></span></p>
+
 <p style="line-height: 30px; word-spacing: 18px">My Name is OJO, Oluwatobi Samuel. I am a second class graduate of Obafemi Awolowo University where I majored in Management and Acoounting. I am also a Professional(Chartered) Manager[NIM] who is keen about and has passion for Technology. I have over 3years experience in Web and Mobile Technologies </p>
 </section>
 <section style="margin-top: 100px;">
