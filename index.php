@@ -221,9 +221,6 @@ var i;
 <style>
 * {
   box-sizing: border-box;
-  overflow-x: none;
-  overflow-x: hidden;
- 
 }
 body {
   color: #333;
@@ -539,6 +536,7 @@ body {
 .container {
   height: 100%;
   overflow-y: scroll;
+  overflow-x: hidden;
     scrollbar-width: none; /* Firefox */
     -ms-overflow-style: none;  /* Internet Explorer 10+ */
   overflow-y: scroll;
@@ -742,7 +740,7 @@ data-word='[" Software Developer!", " UI/UX Designer(Digital Artist)!", " Photog
     <div class="animation-element slide-left testimonial">
       <div class="header">
         <div class="left">
-          <img src="img/mayornew.jpg" />
+          <img src="img/mayor.jpg" />
         </div>
         <div class="right">
           <h3>Ajide Oluwamayowa</h3>
@@ -1128,7 +1126,7 @@ data-word='[" Software Developer!", " UI/UX Designer(Digital Artist)!", " Photog
   <div id="testimonial_boxnew">
   <div style="text-align:center;" class="mt-2 mySlides fadenew">
     <div class="chip">
-        <img src="img/mayornew.jpg" alt="Person" width="96" height="96">
+        <img src="img/mayor.jpg" alt="Person" width="96" height="96">
        Ajide Oluwamayowa
       </div>
      <p class="pt-3 text_1"><q>I remember when I contacted Wittstack for the design of a program I had: Things I wished to know before I enter school. The design of te flier was top notch. The design was done within few days in which normal designer will do for a week or plus. The combination of the colors and the design showed that the job was a high class job.
