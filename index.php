@@ -575,7 +575,7 @@ body {
     }
     .progress-container {
   width: 100%;
-  height: 8px;
+  height: 5px;
   position: fixed;
   float: left;
   background: #ccc;
@@ -740,7 +740,7 @@ data-word='[" Software Developer!", " UI/UX Designer(Digital Artist)!", " Photog
     <div class="animation-element slide-left testimonial">
       <div class="header">
         <div class="left">
-          <img src="img/mayor.jpg" />
+          <img src="img/mayor.png" />
         </div>
         <div class="right">
           <h3>Ajide Oluwamayowa</h3>
@@ -1126,7 +1126,7 @@ data-word='[" Software Developer!", " UI/UX Designer(Digital Artist)!", " Photog
   <div id="testimonial_boxnew">
   <div style="text-align:center;" class="mt-2 mySlides fadenew">
     <div class="chip">
-        <img src="img/mayor.jpg" alt="Person" width="96" height="96">
+        <img src="img/mayor.png" alt="Person" width="96" height="96">
        Ajide Oluwamayowa
       </div>
      <p class="pt-3 text_1"><q>I remember when I contacted Wittstack for the design of a program I had: Things I wished to know before I enter school. The design of te flier was top notch. The design was done within few days in which normal designer will do for a week or plus. The combination of the colors and the design showed that the job was a high class job.
@@ -1292,52 +1292,9 @@ input[type=submit]:hover {
   </div>
 </div>
 </section>
-<hr style="margin: 20px 0; width: 100%;"/>
 
-<style>
-#myBtn {
-  display: none;
-  position: fixed;
-  bottom: 20px;
-  right: 30px;
-  z-index: 10;
-  font-size: 18px;
-  border: none;
-  outline: none;
-  background-color: #f1a947;
-  color: white;
-  cursor: pointer;
-  padding: 15px;
-  border-radius: 4px;
-}
-
-#myBtn:hover {
-  background-color: #555;
-}
-.float{
-	position:fixed;
-	width:60px;
-	height:60px;
-	bottom:20px;
-	left:20px;
-	background:#25d366;
-	color:#FFF;
-	border-radius:50px;
-	text-align:center;
-  font-size:30px;
-	box-shadow: 1px 2px 2px #999;
-  z-index: -1;
-}
-
-.my-float{
-	margin-top:16px;
-}
 </style>
 
-<a href="https://api.whatsapp.com/send?phone=2348132782405&text=Good%20Day%20." class="float" target="_blank">
-<i class="fa fa-whatsapp my-float"></i>
-</a>
-<button onclick="topFunction()" id="myBtn" title="Go to top"><i class="fas fa-arrow-up"></i></button>
 <div style="font-weight: 700; padding: 20px 5em">
 <p class="mt-2 mb-3 text-muted">
   <span id="datefooter"> Year</span>
