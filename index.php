@@ -1300,7 +1300,7 @@ input[type=submit]:hover {
   position: fixed;
   bottom: 20px;
   right: 30px;
-  z-index: 99;
+  z-index: 10;
   font-size: 18px;
   border: none;
   outline: none;
@@ -1320,13 +1320,13 @@ input[type=submit]:hover {
 	height:60px;
 	bottom:20px;
 	left:20px;
-	background-color:#25d366;
+	background:#25d366;
 	color:#FFF;
 	border-radius:50px;
 	text-align:center;
   font-size:30px;
 	box-shadow: 1px 2px 2px #999;
-  z-index:100;
+  z-index: -1;
 }
 
 .my-float{
