@@ -191,7 +191,7 @@ data-word='[" Software Developer!", " UI/UX Designer(Digital Artist)!", " Photog
           <h4>Owner & Founder of Swift Geek Links</h4>
         </div>
       </div>
-      <div style="line-height: 30px;"  class="content"><i class="fa fa-quote-left"></i> Witt<span style="color: plum">Stack's</span> work is impressive <a style="z-index: 2; cursor: pointer;" href="www.swiftgeek.com.ng">SwiftGeek</a> 
+      <div style="line-height: 30px;"  class="content"><i class="fa fa-quote-left"></i> Witt<span style="color: plum">Stack's</span> work is impressive <a style="z-index: 100; cursor: pointer;" href="https://www.swiftgeek.com.ng">SwiftGeek</a> 
         <i class="fa fa-quote-right"></i>
       </div>
       <div class="rating">
@@ -211,7 +211,7 @@ data-word='[" Software Developer!", " UI/UX Designer(Digital Artist)!", " Photog
           <h4>Owner & Founder of Swift Geek Links</h4>
         </div>
       </div>
-      <div style="line-height: 30px;"  class="content"><i class="fa fa-quote-left"></i> Witt<span style="color: plum">Stack's</span> work is impressive <a style="z-index: 2; cursor: pointer;" href="www.swiftgeek.com.ng">SwiftGeek</a> 
+      <div style="line-height: 30px;"  class="content"><i class="fa fa-quote-left"></i> Witt<span style="color: plum">Stack's</span> work is impressive <a style="z-index: 100; cursor: pointer;" href="https://www.swiftgeek.com.ng">SwiftGeek</a> 
         <i class="fa fa-quote-right"></i>
       </div>
       <div class="rating">
@@ -292,7 +292,7 @@ data-word='[" Software Developer!", " UI/UX Designer(Digital Artist)!", " Photog
   </div>
   </div>
 </section>
-  <img style="float: right; margin-top: 50px;" height="250px" width="250px" src="img/manworking.png" />
+  <img style="float: right; margin-top: 30px;" height="250px" width="250px" src="img/manworking.png" />
 <section class="resume" id="skills">
         <div>
           <h2 style="font-size: 3em; margin-bottom: 20px;">Skills</h2>
@@ -386,7 +386,7 @@ data-word='[" Software Developer!", " UI/UX Designer(Digital Artist)!", " Photog
                     <div class="containernew rightnew">
                       <div class="contentnew">
                         <h2>UI/UX Design</h2>
-                        <p>We are a group of passionate Developers and Designers who is keen to bring out amazement out of design. We Deign for Web and Mobile Apllication</p>
+                        <p>We are a group of passionate Developers and Designers who are keen to bring out amazement out of design. We Deign for Web and Mobile Apllication</p>
                
                       </div>
                     </div>
@@ -463,7 +463,8 @@ data-word='[" Software Developer!", " UI/UX Designer(Digital Artist)!", " Photog
     display: block;
   }
   #missionn {
-    margin-top: 50px;
+    margin-top: 20px;
+    margin-bottom: 10px;
     width: 100% !important;
     display: block;
     margin-left: 0 !important;
@@ -529,8 +530,10 @@ data-word='[" Software Developer!", " UI/UX Designer(Digital Artist)!", " Photog
   </div>
 </div>
 </section>
-<a style="padding-left: 30px; margin: 20px 0;" href="wittstack/myCV.pdf"><button style="padding: 10px; border: none; outline: none; border-radius: 3px; background-color: green; color: #fff;"> Download my CV </button></a>
-<div style="font-weight: 700;">
+<div style="padding-left: 30px; margin-top: 30px;">
+<a  href="wittstack/myCV.pdf"><button style="padding: 10px; border: none; outline: none; border-radius: 3px; background-color: green; color: #fff;"> Download my CV </button></a>
+    </div>
+<div style="font-weight: 700; margin-top: 20px;">
 <p class="mt-2 mb-3 text-muted" style="padding-left: 30px;">
   <span id="datefooter">&copy; Year</span>
           . Designed and Powered by <a style="cursor: pointer; text-decoration: none;" href="https://wa.me/message/LCCPGHQCMQKYK1"><span style="color: #000;">Witt</span><span style="color:plum;">Stack</span></a>
