@@ -430,14 +430,32 @@ data-word='[" Software Developer!", " UI/UX Designer(Digital Artist)!", " Photog
 <!-- <div  id="testimonial_container">
 <img id="testimonyy" style="margin-top: -300px; z-index: -1;" width="70%" height="400px" src="img/vector7.png" />
 </div> -->
+<style>
+@media screen and (max-width: 768px) {
+  #rowmission {
+    width: 100% !important;
+    display: block;
+  }
+  #mission {
+    width: 100% !important;
+    display: block;
+  }
+  #missionn {
+    margin-top: 50px;
+    width: 100% !important;
+    display: block;
+    margin-left: 0 !important;
+  }
+}
+</style>
 <section>
   <div id="rowmission">
-    <div style="border-radius: 10px; width: 45%; padding: 20px; background: #d1d1d1; box-shadow: 1px 2px 2px 2px rgba(0,0,0,.25);" id="mission">
+    <div style="border-radius: 10px; width: 50%; padding: 20px; background: #d1d1d1; box-shadow: 1px 2px 2px 2px rgba(0,0,0,.25);" id="mission">
     <span><img height="100px" width="80px" src="img/idea.png"/>
       <h2 style="color: #3f3f3f;"> Our Mission Statement </h2></span>
       <p style="padding: 20px; color: #202020; line-height: 30px;"> To ensure those who are keen about Tech. is impacted and updated with the knowledge of Technology, and also to ensure businesses get their products/services online to secure more sales by delivering quality designs on Digital, Website, and Mobile Applications</p> 
     </div>
-    <div style="border-radius: 10px; margin-left: 10px; width: 45%; padding: 20px; background: gold; box-shadow: 1px 2px 2px 3px rgba(0,0,0,.25);" id="mission">
+    <div style="border-radius: 10px; width: 50%; margin-left: 10px;  padding: 20px; background: gold; box-shadow: 1px 2px 2px 3px rgba(0,0,0,.25);" id="missionn">
     <div><img height="100px" width="80px" src="img/idea.png"/>
       <h1 style="color: #3f3f3f;"> Our Vision Statement </h1></div>
       <p style="padding:0 20px; color: #202020;"> To be a World Class Remote and IT/Digital Agency Company</p> 
@@ -497,32 +515,30 @@ data-word='[" Software Developer!", " UI/UX Designer(Digital Artist)!", " Photog
           . All Rights Reserved
         </p>
 </div>
-</div>
+
 <style>
 .float{
 	position:fixed;
 	width:60px;
 	height:60px;
 	bottom:20px;
-	right:20px;
+	right:30px;
 	background-color:#25d366;
 	color:#FFF;
 	border-radius:50px;
 	text-align:center;
   font-size:30px;
 	box-shadow: 1px 2px 2px #999;
-  z-index:100;
 }
 
 .my-float{
   margin-top:16px;
-  z-index:101;
 }
 </style>
-<a href="https://api.whatsapp.com/send?phone=2348132782405&text=Good%20Day%20." class="float" target="_blank">
+<a href="https://api.whatsapp.com/send?phone=2348132782405&text=Good%20Day." class="float" target="_blank">
 <i class="fa fa-whatsapp my-float"></i>
 </a>
-
+</div>
 </main>
 
 <script src="assets/js/main.js" type="text/javascript"></script>
