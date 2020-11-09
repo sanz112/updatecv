@@ -8,7 +8,7 @@ include 'vendor/autoload.php';
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="./assets/js/js.js"></script>
     <link rel="stylesheet" href="./assets/font.css">
-    <link rel="stylesheet" href="assets/main.css">
+    <link rel="stylesheet" href="assets/mainwitt.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
     <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" /> -->
@@ -508,16 +508,15 @@ data-word='[" Software Developer!", " UI/UX Designer(Digital Artist)!", " Photog
   </div>
 </div>
 </section>
-
-<div style="font-weight: 700; padding: 20px 30px;">
-<p class="mt-2 mb-3 text-muted">
-  <span id="datefooter"> Year</span>
+<a style="padding-left: 30px; margin: 20px 0;" href="wittstack/myCV.pdf"><button style="padding: 10px; border: none; outline: none; border-radius: 3px; background-color: green; color: #fff;"> Download my CV </button></a>
+<div style="font-weight: 700;">
+<p class="mt-2 mb-3 text-muted" style="padding-left: 30px;">
+  <span id="datefooter">&copy; Year</span>
           . Designed and Powered by <a style="cursor: pointer; text-decoration: none;" href="https://wa.me/message/LCCPGHQCMQKYK1"><span style="color: #000;">Witt</span><span style="color:plum;">Stack</span></a>
           . All Rights Reserved
         </p>
 </div>
-<br>
-<a href="wittstack/myCV.pdf"><button style="background-color: green; color: #fff;"> Download my CV </button></a>
+
 <!-- <style>
 .float{
 	position:fixed;
