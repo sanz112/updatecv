@@ -292,7 +292,7 @@ data-word='[" Software Developer!", " UI/UX Designer(Digital Artist)!", " Photog
   </div>
   </div>
 </section>
-  <img style="float: right; margin-top: 30px;" height="250px" width="250px" src="img/manworking.png" />
+  <img style="float: right; margin-top: 10px;" height="250px" width="250px" src="img/manworking.png" />
 <section class="resume" id="skills">
         <div>
           <h2 style="font-size: 3em; margin-bottom: 20px;">Skills</h2>
