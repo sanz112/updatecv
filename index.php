@@ -202,6 +202,26 @@ data-word='[" Software Developer!", " UI/UX Designer(Digital Artist)!", " Photog
         <i class="fa fa-star"></i>
       </div>
     </div>
+    <div class="animation-element slide-left testimonial">
+      <div class="header">
+        <div class="left">
+          <img src="img/swiftlogo.png" />
+        </div>
+        <div class="right">
+          <h4>Owner & Founder of Swift Geek Links</h4>
+        </div>
+      </div>
+      <div style="line-height: 30px;"  class="content"><i class="fa fa-quote-left"></i> Witt<span style="color: plum">Stack's</span> work is impressive <a style="z-index: 2; cursor: pointer;" href="www.swiftgeek.com.ng">SwiftGeek</a> 
+        <i class="fa fa-quote-right"></i>
+      </div>
+      <div class="rating">
+        <i class="fa fa-star"></i>
+        <i class="fa fa-star"></i>
+        <i class="fa fa-star"></i>
+        <i class="fa fa-star"></i>
+        <i class="fa fa-star"></i>
+      </div>
+    </div>
     <!--testimonial three -->
     <div class="animation-element slide-left testimonial">
       <div class="header">
@@ -225,6 +245,7 @@ data-word='[" Software Developer!", " UI/UX Designer(Digital Artist)!", " Photog
         <i class="fa fa-star"></i>
       </div>
     </div>
+    
     <!--testimonial four -->
     <div class="animation-element slide-left testimonial">
       <div class="header">
@@ -271,7 +292,7 @@ data-word='[" Software Developer!", " UI/UX Designer(Digital Artist)!", " Photog
   </div>
   </div>
 </section>
-  <img style="float: right; margin-top: 50px;" height="250px" width="250px" src="img/manworking.png" />
+  <!-- <img style="float: right; margin-top: 50px;" height="250px" width="250px" src="img/manworking.png" /> -->
 <section class="resume" id="skills">
         <div>
           <h2 style="font-size: 3em; margin-bottom: 20px;">Skills</h2>
@@ -508,7 +529,7 @@ data-word='[" Software Developer!", " UI/UX Designer(Digital Artist)!", " Photog
   </div>
 </div>
 </section>
-<a style="padding-left: 30px; margin: 20px 0;" href="wittstack/myCV.pdf"><button style="padding: 10px; border: none; outline: none; border-radius: 3px; background-color: green; color: #fff;"> Download my CV </button></a>
+<a style="padding-left: 30px; margin-top: 20px;" href="wittstack/myCV.pdf"><button style="padding: 10px; border: none; outline: none; border-radius: 3px; background-color: green; color: #fff;"> Download my CV </button></a>
 <div style="font-weight: 700;">
 <p class="mt-2 mb-3 text-muted" style="padding-left: 30px;">
   <span id="datefooter">&copy; Year</span>

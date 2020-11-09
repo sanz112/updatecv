@@ -292,6 +292,7 @@ transform-origin: 165% 104%;
 transform: skewY(-45deg);
 animation: mymove 5s ease-in-out 2s infinite;
 }
+
 #header::after {
 width: 100%;
 height: 400%;
