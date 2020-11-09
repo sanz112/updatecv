@@ -100,6 +100,7 @@ function refLoad() {
 function showPage() {
   document.getElementById("loading").style.display = "none";
   document.getElementById("myDiv").style.display = "block";
+  alert("Welcome to my Portfolio App");
 }
 var i = 0;
 var txt = 'Loading. Please wait...';

@@ -118,6 +118,7 @@ include 'vendor/autoload.php';
 
     <main id="myDiv">
        <div  id="cont" class="container">
+    
        <div class="progress-container">
     <div class="progress-bar" id="myBar"></div>
   </div>  
@@ -515,7 +516,8 @@ data-word='[" Software Developer!", " UI/UX Designer(Digital Artist)!", " Photog
           . All Rights Reserved
         </p>
 </div>
-
+<br>
+<a href="wittstack/myCV.pdf"><button style="background-color: green; color: #fff;"> Download my CV </button></a>
 <!-- <style>
 .float{
 	position:fixed;
