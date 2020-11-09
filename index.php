@@ -386,7 +386,7 @@ data-word='[" Software Developer!", " UI/UX Designer(Digital Artist)!", " Photog
                     <div class="containernew rightnew">
                       <div class="contentnew">
                         <h2>UI/UX Design</h2>
-                        <p>We are a group of passionate Developers and Designers who are keen to bring out amazement out of design. We Deign for Web and Mobile Apllication</p>
+                        <p>We are a group of passionate Developers and Designers who are keen to bring out amazement out of design. We Design for Web and Mobile Apllication</p>
                
                       </div>
                     </div>
