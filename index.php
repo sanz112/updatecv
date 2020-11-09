@@ -182,7 +182,7 @@ data-word='[" Software Developer!", " UI/UX Designer(Digital Artist)!", " Photog
       </div>
     </div>
     <!--testimonial two -->
-    <div class="animation-element slide-left testimonial">
+    <!-- <div class="animation-element slide-left testimonial">
       <div class="header">
         <div class="left">
           <img src="img/swiftlogo.png" />
@@ -201,7 +201,7 @@ data-word='[" Software Developer!", " UI/UX Designer(Digital Artist)!", " Photog
         <i class="fa fa-star"></i>
         <i class="fa fa-star"></i>
       </div>
-    </div>
+    </div> -->
     <div class="animation-element slide-left testimonial">
       <div class="header">
         <div class="left">
@@ -292,8 +292,8 @@ data-word='[" Software Developer!", " UI/UX Designer(Digital Artist)!", " Photog
   </div>
   </div>
 </section>
-  <img style="float: right; margin-top: 10px;" height="250px" width="250px" src="img/manworking.png" />
-<section class="resume" id="skills">
+  <img style="float: right; margin-top: 0;" height="250px" width="250px" src="img/manworking.png" />
+<section style="margin-top:30px;" class="resume" id="skills">
         <div>
           <h2 style="font-size: 3em; margin-bottom: 20px;">Skills</h2>
           <div style="font-size: 26px; font-weight: 400; margin-bottom: 20px;" class="subheading">Programming Languages &amp; Tools</div>
