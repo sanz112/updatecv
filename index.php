@@ -519,7 +519,8 @@ data-word='[" Software Developer!", " UI/UX Designer(Digital Artist)!", " Photog
         </div>
         <div style="margin: 20px 0;" class="">
             <span class="fa fa-phone"></span>
-          <span>+234- 81 327 824 05</span>
+          <span>+234- 81 327 824 05</span><br>
+          <span>+234- 81 198 650 57</span>
               </div>
           <div style="margin: 20px 0;" class="">
             <span class="fa fa-envelope"></span>
@@ -560,7 +561,7 @@ data-word='[" Software Developer!", " UI/UX Designer(Digital Artist)!", " Photog
   margin-top:16px;
 }
 </style>
-<a href="https://api.whatsapp.com/send?phone=2348132782405&text=Good%20Day." class="float" target="_blank">
+<a href="https://api.whatsapp.com/send?phone=2348119865057&text=Good%20Day." class="float" target="_blank">
 <i class="fa fa-whatsapp my-float"></i>
 </a>
 </div>
