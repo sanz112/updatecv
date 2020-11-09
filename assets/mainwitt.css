@@ -5,10 +5,10 @@ body {
 color: #333;
 margin: 0;
 margin-top: 0;
-overflow-x: hidden;
+/* overflow-x: hidden;
 padding-top: 0;
 overflow-x: none;
-overflow-x: hidden;
+overflow-x: hidden; */
 /* overflow: hidden; */
 font-family: Roboto, Arial, Helvetica, sans-serif;
 }
@@ -321,10 +321,10 @@ overflow-y: scroll;
 overflow-x: hidden;
 overflow-x: none;
 scrollbar-width: none; /* Firefox */
--ms-overflow-style: none;  /* Internet Explorer 10+ */
-overflow-y: scroll;
-margin-right: -50px; /* Maximum width of scrollbar */
-padding-right: 50px; /* Maximum width of scrollbar */
+ -ms-overflow-style: none;  /* Internet Explorer 10+ */
+ overflow-y: scroll; 
+ /*margin-right: -50px; Maximum width of scrollbar */
+/* padding-right: 50px; Maximum width of scrollbar */
 
 }
 

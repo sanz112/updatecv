@@ -146,8 +146,153 @@ data-word='[" Software Developer!", " UI/UX Designer(Digital Artist)!", " Photog
    
     <section>
     <img id="mycvpic" src="img/mycvpic.png" />
-  </section>
-  <img style="float: right; margin-top: 50px;" height="250px" width="250px" src="img/manworking.png" />
+  </section><br>
+<section style="padding: 0 3em; margin-top: 45%;">
+  <h2 style="font-size: 3em;" id="section3" style> About Me! </h2>
+
+<p style="line-height: 30px; word-spacing: 18px">My Name is OJO, Oluwatobi Samuel. I am a second class graduate of Obafemi Awolowo University where I majored in Management and Acoounting. I am also a Professional(Chartered) Manager[NIM] who is keen about and has passion for Technology. I have over 3years experience in Web and Mobile Technologies </p>
+</section>
+<section style="margin-top: 100px;">
+<div class="main-cont">
+<div style="text-align: center !important;">
+  <h1 style="font-size: 30px; text-align: center;"> What Our Clients Says About Us! </h1>
+</div>
+  <div class="cont cf">
+    <!-- testimonial one -->
+    <div class="animation-element slide-left testimonial">
+      <div class="header">
+        <div class="left">
+          <img src="img/mayor.png" />
+        </div>
+        <div class="right">
+          <h3>Ajide Oluwamayowa</h3>
+          <h4>Founder of Wisdom Hub Initiative Network </h4>
+        </div>
+      </div>
+      <div style="line-height: 30px;" class="content"><i class="fa fa-quote-left"></i> I remember when I contacted Wittstack for the design of a program I had: Things I wished to know before I enter school. The design of te flier was top notch. The design was done within few days in which normal designer will do for a week or plus. The combination of the colors and the design showed that the job was a high class job.
+      This made to partner with Witt<span style="color: plum">Stack</span> for my consquent jobs. The video and motion pictures draw more people to register for my next program.
+      Anytime I contact Witt<span style="color: plum">Stack</span> for any job, I kow I will have a quality job done. <i class="fa fa-quote-right"></i>
+      </div>
+      <div class="rating">
+        <i style="color: gold;" class="fa fa-star"></i>
+        <i style="color: gold;" class="fa fa-star"></i>
+        <i style="color: gold;" class="fa fa-star"></i>
+        <i style="color: gold;" class="fa fa-star"></i>
+        <i class="fa fa-star-half"></i>
+      </div>
+    </div>
+    <!--testimonial two -->
+    <div class="animation-element slide-left testimonial">
+      <div class="header">
+        <div class="left">
+          <img src="img/swiftlogo.png" />
+        </div>
+        <div class="right">
+          <h4>Owner & Founder of Swift Geek Links</h4>
+        </div>
+      </div>
+      <div style="line-height: 30px;"  class="content"><i class="fa fa-quote-left"></i> Witt<span style="color: plum">Stack's</span> work is impressive <a style="z-index: 2; cursor: pointer;" href="www.swiftgeek.com.ng">SwiftGeek</a> 
+        <i class="fa fa-quote-right"></i>
+      </div>
+      <div class="rating">
+        <i class="fa fa-star"></i>
+        <i class="fa fa-star"></i>
+        <i class="fa fa-star"></i>
+        <i class="fa fa-star"></i>
+        <i class="fa fa-star"></i>
+      </div>
+    </div>
+    <div class="animation-element slide-left testimonial">
+      <div class="header">
+        <div class="left">
+          <img src="img/swiftlogo.png" />
+        </div>
+        <div class="right">
+          <h4>Owner & Founder of Swift Geek Links</h4>
+        </div>
+      </div>
+      <div style="line-height: 30px;"  class="content"><i class="fa fa-quote-left"></i> Witt<span style="color: plum">Stack's</span> work is impressive <a style="z-index: 2; cursor: pointer;" href="www.swiftgeek.com.ng">SwiftGeek</a> 
+        <i class="fa fa-quote-right"></i>
+      </div>
+      <div class="rating">
+        <i class="fa fa-star"></i>
+        <i class="fa fa-star"></i>
+        <i class="fa fa-star"></i>
+        <i class="fa fa-star"></i>
+        <i class="fa fa-star"></i>
+      </div>
+    </div>
+    <!--testimonial three -->
+    <div class="animation-element slide-left testimonial">
+      <div class="header">
+        <div class="left">
+          <img src="img/profile.png" />
+        </div>
+        <div class="right">
+          <h3>Adesewa</h3>
+          <h4>Writer</h4>
+        </div>
+      </div>
+      <div style="line-height: 30px;"  class="content"><i class="fa fa-quote-left"></i>  Witt<span style="color: plum">Stack</span> did a great Job in making a simple and organized video design that encapsulates all the necessary information.
+      The color combibation was lovely as well as the structure of editing.
+        <i class="fa fa-quote-right"></i>
+      </div>
+      <div class="rating">
+        <i class="fa fa-star"></i>
+        <i class="fa fa-star"></i>
+        <i class="fa fa-star"></i>
+        <i class="fa fa-star"></i>
+        <i class="fa fa-star"></i>
+      </div>
+    </div>
+    
+    <!--testimonial four -->
+    <div class="animation-element slide-left testimonial">
+      <div class="header">
+        <div class="left">
+          <img src="img/kenny.jpg" />
+        </div>
+        <div class="right">
+          <h3>Cole Kenny</h3>
+          <h4>A Graduate</h4>
+        </div>
+      </div>
+      <div style="line-height: 30px;"  class="content"><i class="fa fa-quote-left"></i>Good Day Sir. My Video won the best video award, thanks to you for helping me edit it.
+        <i class="fa fa-quote-right"></i>
+      </div>
+      <div class="rating">
+        <i class="fa fa-star"></i>
+        <i class="fa fa-star"></i>
+        <i class="fa fa-star"></i>
+        <i class="fa fa-star"></i>
+        <i class="fa fa-star"></i>
+      </div>
+    </div>
+    <div class="animation-element slide-left testimonial">
+      <div class="header">
+        <div class="left">
+          <img src="img/lekan.png" />
+        </div>
+        <div class="right">
+          <h3>Lekan</h3>
+          <h4>Obafemi Awolowo University Final Year Engineering Student</h4>
+        </div>
+      </div>
+      <div style="line-height: 30px;"  class="content"><i class="fa fa-quote-left"></i> Mr. Tobi is an Amazing developer always giving back to the community, and he is the Lead coordinator and Founder of Witt<span style="color: plum">Stack</span>
+        <i class="fa fa-quote-right"></i>
+      </div>
+      <div class="rating">
+        <i class="fa fa-star"></i>
+        <i class="fa fa-star"></i>
+        <i class="fa fa-star"></i>
+        <i class="fa fa-star"></i>
+        <i class="fa fa-star"></i>
+      </div>
+    </div>
+  </div>
+  </div>
+</section>
+  <!-- <img style="float: right; margin-top: 50px;" height="250px" width="250px" src="img/manworking.png" /> -->
 <section class="resume" id="skills">
         <div>
           <h2 style="font-size: 3em; margin-bottom: 20px;">Skills</h2>
@@ -384,7 +529,7 @@ data-word='[" Software Developer!", " UI/UX Designer(Digital Artist)!", " Photog
   </div>
 </div>
 </section>
-<a style="padding-left: 30px; margin-top: 20px;" href="wittstack/myCV.pdf"><button style="padding: 10px; border: none; outline: none; border-radius: 3px; background-color: green; color: #fff;"> Download my CV </button></a>
+<a style="padding-left: 30px; margin: 20px 0;" href="wittstack/myCV.pdf"><button style="padding: 10px; border: none; outline: none; border-radius: 3px; background-color: green; color: #fff;"> Download my CV </button></a>
 <div style="font-weight: 700;">
 <p class="mt-2 mb-3 text-muted" style="padding-left: 30px;">
   <span id="datefooter">&copy; Year</span>
