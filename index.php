@@ -292,7 +292,7 @@ data-word='[" Software Developer!", " UI/UX Designer(Digital Artist)!", " Photog
   </div>
   </div>
 </section>
-  <!-- <img style="float: right; margin-top: 50px;" height="250px" width="250px" src="img/manworking.png" /> -->
+  <img style="float: right; margin-top: 50px;" height="250px" width="250px" src="img/manworking.png" />
 <section class="resume" id="skills">
         <div>
           <h2 style="font-size: 3em; margin-bottom: 20px;">Skills</h2>
@@ -538,7 +538,7 @@ data-word='[" Software Developer!", " UI/UX Designer(Digital Artist)!", " Photog
         </p>
 </div>
 
-<!-- <style>
+<style>
 .float{
 	position:fixed;
 	width:60px;
@@ -559,7 +559,7 @@ data-word='[" Software Developer!", " UI/UX Designer(Digital Artist)!", " Photog
 </style>
 <a href="https://api.whatsapp.com/send?phone=2348132782405&text=Good%20Day." class="float" target="_blank">
 <i class="fa fa-whatsapp my-float"></i>
-</a> -->
+</a>
 </div>
 </main>
 
