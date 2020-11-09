@@ -516,7 +516,7 @@ data-word='[" Software Developer!", " UI/UX Designer(Digital Artist)!", " Photog
         </p>
 </div>
 
-<style>
+<!-- <style>
 .float{
 	position:fixed;
 	width:60px;
@@ -537,7 +537,7 @@ data-word='[" Software Developer!", " UI/UX Designer(Digital Artist)!", " Photog
 </style>
 <a href="https://api.whatsapp.com/send?phone=2348132782405&text=Good%20Day." class="float" target="_blank">
 <i class="fa fa-whatsapp my-float"></i>
-</a>
+</a> -->
 </div>
 </main>
 
