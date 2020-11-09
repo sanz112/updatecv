@@ -94,7 +94,7 @@ $window.trigger('scroll');
 var myVar;
 
 function refLoad() {
-    myVar = setTimeout(showPage, 100);
+    myVar = setTimeout(showPage, 5000);
 }
 
 function showPage() {
