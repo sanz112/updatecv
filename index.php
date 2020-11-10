@@ -520,6 +520,7 @@ data-word='[" Software Developer!", " UI/UX Designer(Digital Artist)!", " Photog
         <div style="margin: 20px 0;" class="">
             <span class="fa fa-phone"></span>
           <span>+234- 81 327 824 05</span><br>
+          Or
           <span>+234- 81 198 650 57</span>
               </div>
           <div style="margin: 20px 0;" class="">
