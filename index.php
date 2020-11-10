@@ -5,7 +5,12 @@ include 'vendor/autoload.php';
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ 
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="theme-color" content="#0C359D ">
+<link rel="apple-touch-icon" sizes="180x180" href="https://www.iconsms.com.ng/static/img/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://www.iconsms.com.ng/static/img/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://www.iconsms.com.ng/static/img/favicon-16x16.png">
     <script src="./assets/js/js.js"></script>
     <link rel="stylesheet" href="./assets/font.css">
     <link rel="stylesheet" href="assets/mainwitt.css">
