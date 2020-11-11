@@ -29,6 +29,19 @@ include 'vendor/autoload.php';
   <span class="closebtn">&times;</span>  
   <strong>Info!</strong> <span> This page will load for few secs. So enjoy the View </span>
 </div>
+
+
+<script>
+var close = document.getElementsByClassName("closebtn");
+var i;
+for (i = 0; i < close.length; i++) {
+  close[i].onclick = function(){
+    var div = this.parentElement;
+    div.style.opacity = "0";
+    setTimeout(function(){ div.style.display = "none"; }, 600);
+  }
+}
+</script>
 <div style="z-index: 20; Position: absolute; font-weight: 300; color: #fff; font-size: 18px; bottom: 0; left: 0; right: 0; text-align: center;"><p>Credit: Loader [icon-only] by Jhey on <a style="text-decoration: none; cursor: pointer;" href="https://www.twitter.com/jh3yy"><b style="color: #00acee;">Twitter</b></a></p></div>    
 
 <div class="carousel">
@@ -155,7 +168,7 @@ data-word='[" Software Developer!", " UI/UX Designer(Digital Artist)!", " Photog
 <section style="padding: 0 3em; margin-top: 45%;">
   <h2 style="font-size: 3em;" id="section3" style> About Me! </h2>
 
-<p style="line-height: 30px; word-spacing: 18px">My Name is OJO, Oluwatobi Samuel. I am a second class graduate of Obafemi Awolowo University where I majored in Management and Acoounting. I am also a Professional(Chartered) Manager[NIM] who is keen about and has passion for Technology. I have over 3years experience in Web and Mobile Technologies </p>
+<p style="line-height: 30px; word-spacing: 18px">My Name is OJO, Oluwatobi Samuel. I am a second class graduate of Obafemi Awolowo University where I majored in Management and Acoounting. I am also a Professional(Chartered) Manager[NIM] who is keen about and has passion for Technology. I have over 3 years experience in Web and Mobile Technologies </p>
 </section>
 <section style="margin-top: 100px;">
 <div class="main-cont">
@@ -374,12 +387,89 @@ data-word='[" Software Developer!", " UI/UX Designer(Digital Artist)!", " Photog
         </div>
       
       </section>
+      <section style="margin: 0 0 30px 0;">
+        <style>
+      .flip-card {
+  background-color: transparent;
+  width: 200px;
+  height: 200px;
+  perspective: 1000px;
+}
+
+.flip-card-inner {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 1s;
+  transform-style: preserve-3d;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+
+.flip-card:hover .flip-card-inner {
+  transform: rotateY(180deg);
+}
+
+.flip-card-front, .flip-card-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+}
+
+.flip-card-front {
+  background-color: #bbb;
+  color: black;
+}
+
+.flip-card-back {
+  background-color: #2980b9;
+  color: white;
+  transform: rotateY(180deg);
+}
+</style>
+<div id="container">
+<div style="display: inline;  place-items: center;">
+  <h2 style="text-align: center; font-size: 2em;"> Our Partners </h2>
+  <div style="display: flex; justify-content: center;" class="row">
+  <div style="padding: 10px;">
+<div  class="flip-card">
+  <div class="flip-card-inner">
+    <div class="flip-card-front">
+      <img src="img/swiftlogo.png" alt="Avatar" style="padding:5px;width:200px;height:200px;">
+    </div>
+    <div class="flip-card-back">
+      <h1>SwiftGeek</h1> <br>
+      <p>A VTU Web Application</p> 
+    </div>
+  </div>
+</div>
+</div>
+<div style="padding: 10px;">
+<div class="flip-card">
+  <div class="flip-card-inner">
+    <div class="flip-card-front">
+      <img  src="img/iconsms180.png" alt="Avatar" style="padding:5px;width:200px;height:200px;">
+    </div>
+    <div  class="flip-card-back">
+      <h1>ICONSMS</h1> <br>
+      <p>A VTU Web Application</p> 
+    </div>
+  </div>
+  </div>
+</div>
+</div>
+</div>
+</div>
+
+      </section>
       <!-- <div>
 <img style=" margin-top: 200px;" src="img/vector.png" />
 <img style="float: right; margin-top: 500px;" src="img/vector2.png" />
 </div> -->
-<section style="background-image: url('img/vector.png'); background-repeat: no-repeat; background-position: top right; background-origin: content-box;" id="services">
-               <h2 class="py-3" style="text-align: center; font-size: 2em; font-weight: 800;"> What Will Do? </h2>
+<section style="margin-top: 20px; background-image: url('img/vector.png'); background-repeat: no-repeat; background-position: top right; background-origin: content-box;" id="services">
+               <h2 class="py3" style="margin-top: 20px; text-align: center; font-size: 2em; font-weight: 800;"> What Will Do? </h2>
                 <div class="timelinenew">
                     <div class="containernew leftnew">
                       <div class="contentnew">
@@ -410,6 +500,8 @@ data-word='[" Software Developer!", " UI/UX Designer(Digital Artist)!", " Photog
                   </div>
                 </section>
                 <img style="margin-top: -50px;" src="img/vector2.png" />
+
+            
                 <section style="padding: 0 2em;" class="py-3">
 <div id="testimonial">
   <h2 style="font-size: 2em; text-align: center; font-weight: 800;"> Testimonials</h2>
@@ -486,7 +578,7 @@ data-word='[" Software Developer!", " UI/UX Designer(Digital Artist)!", " Photog
     <div style="border-radius: 10px; width: 50%; margin-left: 10px;  padding: 20px; background: gold; box-shadow: 1px 2px 2px 3px rgba(0,0,0,.25);" id="missionn">
     <div><img height="100px" width="80px" src="img/idea.png"/>
       <h1 style="color: #3f3f3f;"> Our Vision Statement </h1></div>
-      <p style="padding:0 20px; color: #202020;"> To be a World Class Remote and IT/Digital Agency Company</p> 
+      <p style="padding:0 20px; color: #202020;"> To be a World-Class IT/Digital Agency Company</p> 
     </div>
   </div>
 </section>
@@ -538,7 +630,7 @@ data-word='[" Software Developer!", " UI/UX Designer(Digital Artist)!", " Photog
 </div>
 </section>
 <div style="padding-left: 30px; margin-top: 30px;">
-<a  href="wittstack/myCV.pdf"><button style="padding: 10px; border: none; outline: none; border-radius: 3px; background-color: green; color: #fff;"> Download my CV </button></a>
+<a  href="wittstack/myresume.pdf"><button style="padding: 10px; border: none; outline: none; border-radius: 3px; background-color: green; color: #fff;"> Download my CV </button></a>
     </div>
 <div style="font-weight: 700; margin-top: 20px;">
 <p class="mt-2 mb-3 text-muted" style="padding-left: 30px;">
