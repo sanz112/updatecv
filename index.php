@@ -387,7 +387,7 @@ data-word='[" Software Developer!", " UI/UX Designer(Digital Artist)!", " Photog
         </div>
       
       </section>
-      <section style="margin: 0 0 30px 0;">
+      <section style="margin: 0 0 30px 0; padding-bottom:30px;">
         <style>
       .flip-card {
   background-color: transparent;
@@ -429,7 +429,7 @@ data-word='[" Software Developer!", " UI/UX Designer(Digital Artist)!", " Photog
   transform: rotateY(180deg);
 }
 </style>
-<div id="container">
+<div style="padding: 5px;" id="container">
 <div style="display: inline;  place-items: center;">
   <h2 style="text-align: center; font-size: 2em;"> Our Partners </h2>
   <div style="display: flex; justify-content: center;" class="row">
@@ -630,7 +630,7 @@ data-word='[" Software Developer!", " UI/UX Designer(Digital Artist)!", " Photog
 </div>
 </section>
 <div style="padding-left: 30px; margin-top: 30px;">
-<a  href="wittstack/myresume.pdf"><button style="padding: 10px; border: none; outline: none; border-radius: 3px; background-color: green; color: #fff;"> Download my CV </button></a>
+<a  href="wittstack/tobisamCV.pdf"><button style="padding: 10px; border: none; outline: none; border-radius: 3px; background-color: green; color: #fff;"> Download my CV </button></a>
     </div>
 <div style="font-weight: 700; margin-top: 20px;">
 <p class="mt-2 mb-3 text-muted" style="padding-left: 30px;">
