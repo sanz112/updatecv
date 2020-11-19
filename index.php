@@ -1,13 +1,12 @@
 <?php
 include 'vendor/autoload.php';
 ?>
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
  
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<meta name="theme-color" content="#0C359D ">
+<meta name="theme-color" content="#0C359D">
 <link rel="apple-touch-icon" sizes="180x180" href="https://www.iconsms.com.ng/static/img/apple-touch-icon.png">
 <link rel="icon" type="image/png" sizes="32x32" href="https://www.iconsms.com.ng/static/img/favicon-32x32.png">
 <link rel="icon" type="image/png" sizes="16x16" href="https://www.iconsms.com.ng/static/img/favicon-16x16.png">
@@ -629,9 +628,9 @@ data-word='[" Software Developer!", " UI/UX Designer(Digital Artist)!", " Photog
   </div>
 </div>
 </section>
-<div style="padding-left: 30px; margin-top: 30px;">
+<!-- <div style="padding-left: 30px; margin-top: 30px;">
 <a  href="wittstack/tobisamCV.pdf"><button style="padding: 10px; border: none; outline: none; border-radius: 3px; background-color: green; color: #fff;"> Download my CV </button></a>
-    </div>
+    </div> -->
 <div style="font-weight: 700; margin-top: 20px;">
 <p class="mt-2 mb-3 text-muted" style="padding-left: 30px;">
   <span id="datefooter">&copy; Year</span>
