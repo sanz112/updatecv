@@ -155,7 +155,7 @@ for (i = 0; i < close.length; i++) {
 <div style="padding-left: 3em;">
 <h3> <span id="founded">Founder of Witt<span style="color: plum;">Stack</span></span> </h3>
 <h2  class="flow-text">I am a<span style="color: #fff;" class="txt-type" data-wait="2000"
-data-word='[" Software Developer!", " UI/UX Designer(Digital Artist)!", " Photographers!"]'></span></h2>
+data-word='[" Software Developer!", " UI/UX Designer(Digital Artist)!", " Photographer!"]'></span></h2>
 </div>
 </div>
 </div>
@@ -274,7 +274,7 @@ data-word='[" Software Developer!", " UI/UX Designer(Digital Artist)!", " Photog
           <h4>A Graduate</h4>
         </div>
       </div>
-      <div style="line-height: 30px;"  class="content"><i class="fa fa-quote-left"></i>Good Day Sir. My Video won the best video award, thanks to you for helping me edit it.
+      <div style="line-height: 30px;"  class="content"><i class="fa fa-quote-left"></i>My Video won the best video award, thanks to WittStack for helping me edit it.
         <i class="fa fa-quote-right"></i>
       </div>
       <div class="rating">
