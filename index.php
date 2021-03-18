@@ -3,13 +3,36 @@ include 'vendor/autoload.php';
 ?>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
- 
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<meta name="theme-color" content="#0C359D">
-<link rel="apple-touch-icon" sizes="180x180" href="https://www.iconsms.com.ng/static/img/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="https://www.iconsms.com.ng/static/img/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="https://www.iconsms.com.ng/static/img/favicon-16x16.png">
+<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="apple-touch-icon" sizes="180x180" href=".img/wittstack180.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="./img/wittstack32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="./img/wittstack16.png">
+    <link rel="manifest" href="static/img/site.html">
+    <link rel="manifest" href="/css/static/site.webmanifest">
+  <title>WittStack | Create Secure & Robust Applications</title>
+  <meta name="keywords" content="Web Application Development, App Development, WittStack, Programming, VTU, Vending Airtime, Data, Utility, Bills, Airtime, Vending, Hardware, Neural Networks, Machine Learning, Coding">
+  <meta name="theme-color" content="#aa0f64">
+
+<!-- This site is optimized with the Yoast SEO Premium plugin v11.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="MSORG Developers we create robust,secure and affordable website, mobile apps, designs and marketing for small and large scale business owners around the world."/>
+<link rel="canonical" href="https://www.wittstack.com/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="WittStack" />
+<meta property="og:description" content="At WittStack; we create robust, secure and affordable website, mobile apps, designs and marketing for small, medium and large scale business owners around the globe." />
+<meta property="og:url" content="https://www.wittstack.com/" />
+<meta property="og:site_name" content="WittStack" />
+<meta property="og:image" content="img/wittstacklogopng.png" />
+<meta property="og:image:secure_url" content="/static/img/msorglogo.png" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:image:height" content="630" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:description" content="At WittStack; we create robust, secure and affordable website, mobile apps, designs and marketing for small, medium and large scale business owners around the globe." />
+<meta name="twitter:title" content="WittStack" />
+<meta name="twitter:site" content="WittStack" />
+<meta name="twitter:image" content="./img/wittstacklogopng.png" />
+<meta name="twitter:creator" content="@wittstack" />
     <script src="./assets/js/js.js"></script>
     <link rel="stylesheet" href="./assets/font.css">
     <link rel="stylesheet" href="assets/mainwitt.css">
