@@ -15,7 +15,7 @@ include 'vendor/autoload.php';
   <meta name="theme-color" content="#aa0f64">
 
 <!-- This site is optimized with the Yoast SEO Premium plugin v11.8 - https://yoast.com/wordpress/plugins/seo/ -->
-<meta name="description" content="MSORG Developers we create robust,secure and affordable website, mobile apps, designs and marketing for small and large scale business owners around the world."/>
+<meta name="description" content="At WittStack, we create robust,secure and affordable website, mobile apps, designs and marketing for small and large scale business owners around the world."/>
 <link rel="canonical" href="https://www.wittstack.com/" />
 <meta property="og:locale" content="en_US" />
 <meta property="og:type" content="website" />
